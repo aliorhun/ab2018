@@ -3,6 +3,8 @@ Karabük Üniversitesi'nde 27-30 Ocak 2018 tarihleri arasında vereceğim eğiti
 
 https://kurs.ab.org.tr/2018/gnu-linux-sistem-yonetimi-05/
 
+https://mail.havelsan.com.tr/owa/redir.aspx?REF=QC_NbK8U0S7wIe3CJxd7lj8uZiX1We5gTwUCH3D8ET59JAnZ0GfVCAFodHRwczovL3QubWUvam9pbmNoYXQvRWhCTnhCQWpnRVRFZTJmUF9TajhUQQ..
+
 ## Gereksinimler
 * Virtualbox kurulu Bilgisayar
 
